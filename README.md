@@ -85,7 +85,8 @@ The dataset is sourced from **Kaggle – IPL Ball-by-Ball Dataset**.
 <img width="651" height="374" alt="image" src="https://github.com/user-attachments/assets/3a7db60e-7417-4e20-9c77-0055f4d08737" />
 
 ### 👤 Player Performance Across Seasons
-![Player Performance](ipl_summary.png)
+<img width="657" height="508" alt="image" src="https://github.com/user-attachments/assets/57a77d53-a01b-4bc6-bf2b-336c1e3120c4" />
+
 
 
 ---
