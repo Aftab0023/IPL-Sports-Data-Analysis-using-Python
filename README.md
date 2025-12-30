@@ -84,19 +84,19 @@ The dataset is sourced from **Kaggle – IPL Ball-by-Ball Dataset**.
 ## 🔧 Install Required Libraries
 ```bash
 pip install pandas matplotlib seaborn
-
+```
 ## ▶️ Open the Notebook
 jupyter notebook analysis.ipynb
-
+---
 ## ✅ Conclusion
 
 This project demonstrates how sports data analytics can be used to uncover meaningful insights from large datasets.
 Through visualization and statistical analysis, it highlights trends in player performance, team dominance, and the evolution of IPL cricket.
-
+---
 ## 👤 Author
 
 Aftab Tamboli
-
+---
 ## ⭐ Feedback
 
 If you find this project useful, feel free to ⭐ the repository.
