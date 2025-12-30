@@ -82,7 +82,7 @@ The dataset is sourced from **Kaggle – IPL Ball-by-Ball Dataset**.
 ![Team Win Percentage](Top_Team_Win_Rates.png)
 
 ### 📈 Season-wise Total Runs
-![Season-wise Runs]<img width="651" height="374" alt="image" src="https://github.com/user-attachments/assets/3a7db60e-7417-4e20-9c77-0055f4d08737" />
+<img width="651" height="374" alt="image" src="https://github.com/user-attachments/assets/3a7db60e-7417-4e20-9c77-0055f4d08737" />
 
 ### 👤 Player Performance Across Seasons
 ![Player Performance](ipl_summary.png)
