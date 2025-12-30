@@ -61,23 +61,32 @@ The dataset is sourced from **Kaggle – IPL Ball-by-Ball Dataset**.
 
 ## 📤 Output
 
-### 📊 Top Run Scorers
-![Top Run Scorers](screenshots/top_run_scorers.png)
+### 📊 Top 10 Run Scorers
+![Top Run Scorers](Top_10_IPL_Run_Scorers.png)
 
 ### ⚡ Best Strike Rates
-![Best Strike Rates](screenshots/strike_rate.png)
+- Best Strike Rates (Min 500 Balls) Top 10
+- Batter
+- AD Russell 164.613073
+- LS Livingstone 157.115385
+- N Pooran 153.441802
+- GJ Maxwell 152.383623
+- SP Narine 151.449275
+- V Sehwag 149.612403
+- AB de Villiers 148.309609
+- SO Hetmyer 146.284224
+- YBK Jaiswal 145.229244
+- RR Pant 144.073107
 
 ### 🏆 Team Win Percentage
-![Team Win Percentage](screenshots/team_win_rate.png)
+![Team Win Percentage](Top_Team_Win_Rates.png)
 
 ### 📈 Season-wise Total Runs
-![Season-wise Runs](screenshots/season_runs.png)
+![Season-wise Runs]<img width="651" height="374" alt="image" src="https://github.com/user-attachments/assets/3a7db60e-7417-4e20-9c77-0055f4d08737" />
 
 ### 👤 Player Performance Across Seasons
-![Player Performance](screenshots/player_season_performance.png)
+![Player Performance](ipl_summary.png)
 
-### 📌 Combined Visual Summary
-![IPL Visual Summary](screenshots/ipl_visual_summary.png)
 
 ---
 
